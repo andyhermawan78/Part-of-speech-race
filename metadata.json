@@ -1,0 +1,8 @@
+{
+  "name": "Parts of Speech Race",
+  "description": "An interactive classroom tug-of-war grammar race game for two teams and up to 10 students with animated rope dynamics, rich word banks, and real-time multiplayer buzzing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
